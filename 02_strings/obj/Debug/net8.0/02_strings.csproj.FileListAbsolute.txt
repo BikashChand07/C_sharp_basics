@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\02_strings\bin\Debug\net8.0\02_strings.exe
+C:\Users\hp\Desktop\C#\02_strings\bin\Debug\net8.0\02_strings.deps.json
+C:\Users\hp\Desktop\C#\02_strings\bin\Debug\net8.0\02_strings.runtimeconfig.json
+C:\Users\hp\Desktop\C#\02_strings\bin\Debug\net8.0\02_strings.dll
+C:\Users\hp\Desktop\C#\02_strings\bin\Debug\net8.0\02_strings.pdb
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.dll
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\refint\02_strings.dll
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.pdb
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\02_strings.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\02_strings\obj\Debug\net8.0\ref\02_strings.dll

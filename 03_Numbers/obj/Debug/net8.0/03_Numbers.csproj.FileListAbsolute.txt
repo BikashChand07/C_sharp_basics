@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#\03_Numbers\bin\Debug\net8.0\03_Numbers.exe
+C:\Users\hp\Desktop\C#\03_Numbers\bin\Debug\net8.0\03_Numbers.deps.json
+C:\Users\hp\Desktop\C#\03_Numbers\bin\Debug\net8.0\03_Numbers.runtimeconfig.json
+C:\Users\hp\Desktop\C#\03_Numbers\bin\Debug\net8.0\03_Numbers.dll
+C:\Users\hp\Desktop\C#\03_Numbers\bin\Debug\net8.0\03_Numbers.pdb
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.dll
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\refint\03_Numbers.dll
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.pdb
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\03_Numbers.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\03_Numbers\obj\Debug\net8.0\ref\03_Numbers.dll

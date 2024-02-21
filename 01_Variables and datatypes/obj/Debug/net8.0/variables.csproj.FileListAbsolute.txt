@@ -1,0 +1,42 @@
+C:\Users\hp\Desktop\C#\variables\bin\Debug\net8.0\variables.exe
+C:\Users\hp\Desktop\C#\variables\bin\Debug\net8.0\variables.deps.json
+C:\Users\hp\Desktop\C#\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+C:\Users\hp\Desktop\C#\variables\bin\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\variables\bin\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\refint\variables.dll
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\variables\obj\Debug\net8.0\ref\variables.dll
+C:\Users\hp\Desktop\C#\Variables and datatypes\bin\Debug\net8.0\variables.exe
+C:\Users\hp\Desktop\C#\Variables and datatypes\bin\Debug\net8.0\variables.deps.json
+C:\Users\hp\Desktop\C#\Variables and datatypes\bin\Debug\net8.0\variables.runtimeconfig.json
+C:\Users\hp\Desktop\C#\Variables and datatypes\bin\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\Variables and datatypes\bin\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\refint\variables.dll
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\variables.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\Variables and datatypes\obj\Debug\net8.0\ref\variables.dll
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\bin\Debug\net8.0\variables.exe
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\bin\Debug\net8.0\variables.deps.json
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\bin\Debug\net8.0\variables.runtimeconfig.json
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\bin\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\bin\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.dll
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\refint\variables.dll
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.pdb
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\variables.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\01_Variables and datatypes\obj\Debug\net8.0\ref\variables.dll
