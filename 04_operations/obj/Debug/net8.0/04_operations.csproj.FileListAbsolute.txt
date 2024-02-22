@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\04_operations\bin\Debug\net8.0\04_operations.exe
+C:\Users\hp\Desktop\C#\04_operations\bin\Debug\net8.0\04_operations.deps.json
+C:\Users\hp\Desktop\C#\04_operations\bin\Debug\net8.0\04_operations.runtimeconfig.json
+C:\Users\hp\Desktop\C#\04_operations\bin\Debug\net8.0\04_operations.dll
+C:\Users\hp\Desktop\C#\04_operations\bin\Debug\net8.0\04_operations.pdb
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.sourcelink.json
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.dll
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\refint\04_operations.dll
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.pdb
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\04_operations.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\04_operations\obj\Debug\net8.0\ref\04_operations.dll
