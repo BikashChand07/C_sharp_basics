@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\05_control_statements\bin\Debug\net8.0\05_control_statements.exe
+C:\Users\hp\Desktop\C#\05_control_statements\bin\Debug\net8.0\05_control_statements.deps.json
+C:\Users\hp\Desktop\C#\05_control_statements\bin\Debug\net8.0\05_control_statements.runtimeconfig.json
+C:\Users\hp\Desktop\C#\05_control_statements\bin\Debug\net8.0\05_control_statements.dll
+C:\Users\hp\Desktop\C#\05_control_statements\bin\Debug\net8.0\05_control_statements.pdb
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.sourcelink.json
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.dll
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\refint\05_control_statements.dll
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.pdb
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\05_control_statements.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\05_control_statements\obj\Debug\net8.0\ref\05_control_statements.dll
