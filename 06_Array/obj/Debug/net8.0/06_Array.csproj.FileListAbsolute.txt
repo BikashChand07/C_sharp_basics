@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\06_Array\bin\Debug\net8.0\06_Array.exe
+C:\Users\hp\Desktop\C#\06_Array\bin\Debug\net8.0\06_Array.deps.json
+C:\Users\hp\Desktop\C#\06_Array\bin\Debug\net8.0\06_Array.runtimeconfig.json
+C:\Users\hp\Desktop\C#\06_Array\bin\Debug\net8.0\06_Array.dll
+C:\Users\hp\Desktop\C#\06_Array\bin\Debug\net8.0\06_Array.pdb
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.sourcelink.json
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.dll
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\refint\06_Array.dll
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.pdb
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\06_Array.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\06_Array\obj\Debug\net8.0\ref\06_Array.dll
