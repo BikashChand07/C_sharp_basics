@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\08_Loop\bin\Debug\net8.0\08_Loop.exe
+C:\Users\hp\Desktop\C#\08_Loop\bin\Debug\net8.0\08_Loop.deps.json
+C:\Users\hp\Desktop\C#\08_Loop\bin\Debug\net8.0\08_Loop.runtimeconfig.json
+C:\Users\hp\Desktop\C#\08_Loop\bin\Debug\net8.0\08_Loop.dll
+C:\Users\hp\Desktop\C#\08_Loop\bin\Debug\net8.0\08_Loop.pdb
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.sourcelink.json
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.dll
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\refint\08_Loop.dll
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.pdb
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\08_Loop.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\08_Loop\obj\Debug\net8.0\ref\08_Loop.dll
