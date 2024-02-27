@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\07_jagged Array\bin\Debug\net8.0\07_jagged Array.exe
+C:\Users\hp\Desktop\C#\07_jagged Array\bin\Debug\net8.0\07_jagged Array.deps.json
+C:\Users\hp\Desktop\C#\07_jagged Array\bin\Debug\net8.0\07_jagged Array.runtimeconfig.json
+C:\Users\hp\Desktop\C#\07_jagged Array\bin\Debug\net8.0\07_jagged Array.dll
+C:\Users\hp\Desktop\C#\07_jagged Array\bin\Debug\net8.0\07_jagged Array.pdb
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.sourcelink.json
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.dll
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\refint\07_jagged Array.dll
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.pdb
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\07_jagged Array.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\07_jagged Array\obj\Debug\net8.0\ref\07_jagged Array.dll
