@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.sourcelink.json
+C:\Users\hp\Desktop\C#\12.1_Inheritance\bin\Debug\net8.0\12.1_Inheritance.exe
+C:\Users\hp\Desktop\C#\12.1_Inheritance\bin\Debug\net8.0\12.1_Inheritance.deps.json
+C:\Users\hp\Desktop\C#\12.1_Inheritance\bin\Debug\net8.0\12.1_Inheritance.runtimeconfig.json
+C:\Users\hp\Desktop\C#\12.1_Inheritance\bin\Debug\net8.0\12.1_Inheritance.dll
+C:\Users\hp\Desktop\C#\12.1_Inheritance\bin\Debug\net8.0\12.1_Inheritance.pdb
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.dll
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\refint\12.1_Inheritance.dll
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.pdb
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\12.1_Inheritance.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\12.1_Inheritance\obj\Debug\net8.0\ref\12.1_Inheritance.dll

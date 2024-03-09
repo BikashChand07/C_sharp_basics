@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\bin\Debug\net8.0\12.01_Inheritance_Concept.exe
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\bin\Debug\net8.0\12.01_Inheritance_Concept.deps.json
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\bin\Debug\net8.0\12.01_Inheritance_Concept.runtimeconfig.json
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\bin\Debug\net8.0\12.01_Inheritance_Concept.dll
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\bin\Debug\net8.0\12.01_Inheritance_Concept.pdb
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.sourcelink.json
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.dll
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\refint\12.01_Inheritance_Concept.dll
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.pdb
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\12.01_Inheritance_Concept.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\12.01_Inheritance_Concept\obj\Debug\net8.0\ref\12.01_Inheritance_Concept.dll

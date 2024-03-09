@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\bin\Debug\net8.0\11_01_Types of constructors.exe
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\bin\Debug\net8.0\11_01_Types of constructors.deps.json
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\bin\Debug\net8.0\11_01_Types of constructors.runtimeconfig.json
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\bin\Debug\net8.0\11_01_Types of constructors.dll
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\bin\Debug\net8.0\11_01_Types of constructors.pdb
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.sourcelink.json
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.dll
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\refint\11_01_Types of constructors.dll
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.pdb
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\11_01_Types of constructors.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\11_01_Types of constructors\obj\Debug\net8.0\ref\11_01_Types of constructors.dll

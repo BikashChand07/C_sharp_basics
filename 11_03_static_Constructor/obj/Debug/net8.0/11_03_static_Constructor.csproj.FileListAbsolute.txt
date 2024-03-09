@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\bin\Debug\net8.0\11_03_static_Constructor.exe
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\bin\Debug\net8.0\11_03_static_Constructor.deps.json
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\bin\Debug\net8.0\11_03_static_Constructor.runtimeconfig.json
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\bin\Debug\net8.0\11_03_static_Constructor.dll
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\bin\Debug\net8.0\11_03_static_Constructor.pdb
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.sourcelink.json
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.dll
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\refint\11_03_static_Constructor.dll
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.pdb
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\11_03_static_Constructor.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\11_03_static_Constructor\obj\Debug\net8.0\ref\11_03_static_Constructor.dll
