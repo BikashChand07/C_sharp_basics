@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.sourcelink.json
+C:\Users\hp\Desktop\C#\12.02_inheritance\bin\Debug\net8.0\12.02_inheritance.exe
+C:\Users\hp\Desktop\C#\12.02_inheritance\bin\Debug\net8.0\12.02_inheritance.deps.json
+C:\Users\hp\Desktop\C#\12.02_inheritance\bin\Debug\net8.0\12.02_inheritance.runtimeconfig.json
+C:\Users\hp\Desktop\C#\12.02_inheritance\bin\Debug\net8.0\12.02_inheritance.dll
+C:\Users\hp\Desktop\C#\12.02_inheritance\bin\Debug\net8.0\12.02_inheritance.pdb
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.dll
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\refint\12.02_inheritance.dll
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.pdb
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\12.02_inheritance.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\12.02_inheritance\obj\Debug\net8.0\ref\12.02_inheritance.dll
